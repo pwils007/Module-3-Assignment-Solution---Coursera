@@ -10,9 +10,8 @@ h1 {
     text-align: center;
     text-transform: capitalize;
 }
-/** HEADER **/
 
-
+/* Header Nav Menu */
 #header-nav {
 	background-color: rgb(148, 150, 150);
 	border-radius: 0;
@@ -70,10 +69,7 @@ ul hr {
   border: 1px solid  #033;
 }
 
-/* END HEADER */
-
-
-/* HOME PAGE */
+/* Home */
 h1.text-center {
   margin-bottom: 10px;
 }
@@ -92,7 +88,7 @@ div#main-content {
   color: black;
   
 }
-/* END HOME PAGE */
+
 
 
 
